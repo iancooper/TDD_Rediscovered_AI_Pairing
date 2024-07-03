@@ -1,8 +1,9 @@
+using TDD_Rediscovered_AI_Pairing.resultOne;
 using Xunit;
 
-namespace TDD_Rediscovered_AI_Pairing;
+namespace TDD_Rediscovered_AI_Pairing.testOne.inputOne;
 
-public class TestGameOfLife
+public class TestGameOfLifeOne
 {
     [Fact]
     public void When_All_The_Cells_Are_Dead_No_Change()

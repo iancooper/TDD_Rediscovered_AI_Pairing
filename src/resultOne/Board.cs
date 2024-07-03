@@ -1,4 +1,4 @@
-namespace TDD_Rediscovered_AI_Pairing;
+namespace TDD_Rediscovered_AI_Pairing.resultOne;
 
 public class Board
 {
