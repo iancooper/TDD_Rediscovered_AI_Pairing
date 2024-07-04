@@ -40,6 +40,8 @@ The [transformation priority premise](https://en.wikipedia.org/wiki/Transformati
 13. (variable → assignment) replacing the value of a variable.
 14. (case) adding a case (or else) to an existing switch or if
 
+You should evaluate options to solve the problem in order of the transformations above. Go step-by-step.
+
 ## Example:
 
 1. Initial Test:
