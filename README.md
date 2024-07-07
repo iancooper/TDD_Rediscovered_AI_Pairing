@@ -16,3 +16,7 @@ The code was created using the following rules:
 
 * When we discover that we need new collaborators by refactoring we ask: are they part of our public interface or an implementation detail. We don’t test implementation details
 
+## LLM
+
+- ChatGPT 4o: It could not work incrementally
+- Claude Sonnet: It could work incrementally
